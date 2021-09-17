@@ -1,0 +1,33 @@
+body{
+background-color: black;
+}
+
+.titulo{
+    color: black;
+    font-family: OCR A Std, monospace;
+}
+
+.lista{
+    background-image:url(Imagens/backgorund.png);
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    margin: 10% 32%;
+    padding: 1px 20px;
+    margin:auto;
+}
+
+.instagram{
+    list-style-image: url(Imagens/Insta.png);
+    font-family: OCR A Std, monospace;
+}
+
+.twitter{
+    list-style-image: url(Imagens/Twitter.png);
+    font-family: OCR A Std, monospace;
+}
+
+.youtube{
+    list-style-image: url(Imagens/Youtube.png);
+    font-family: OCR A Std, monospace;
+}
